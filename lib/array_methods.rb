@@ -1,5 +1,19 @@
 def find_element_index(array, value_to_find)
   # Add your solution here
+
+  found_index = nil
+  counter = 0
+
+  while counter < array.size do
+
+    array.found_index(value_to_find)
+
+    counter += 1
+  end
+
+  found_index
+
+
 end
 
 def find_max_value(array)
