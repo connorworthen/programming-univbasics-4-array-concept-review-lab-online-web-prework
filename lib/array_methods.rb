@@ -1,5 +1,5 @@
 def find_element_index(array, value_to_find)
-  @value_to_find = value_to_find
+  @found_index = found_index
 
   found_index = nil
   counter = 0
